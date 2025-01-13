@@ -1,0 +1,1 @@
+These .py files have been deployed to create lambda functions. The usage/purposes of the function is as specified in each subfolder's readMe file. By default, AWS lambda functiin accept function definition script named as lambda_function.py

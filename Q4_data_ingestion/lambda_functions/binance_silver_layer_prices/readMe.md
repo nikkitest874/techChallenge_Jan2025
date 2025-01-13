@@ -1,0 +1,1 @@
+This lambda_function.py file is used to create the lambda function which loads the raw ticker price data from landing zone and applies basic transformation to convert the data into tabular format and write to silver layer
